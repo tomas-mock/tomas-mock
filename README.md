@@ -30,15 +30,15 @@ Here’s a snapshot of my work:
 
 ### 5. 📈 **Macroeconomic Impacts on U.S. Business Sectors**
 - **What it is**: Explored the influence of macroeconomic indicators on sector performance over two decades.
-- **Key Features**: Sector performance analysis during recessions and recoveries, predictive modeling.
+- **Key Features**: Sector performance analysis during recessions and recoveries.
 - [View Project](https://github.com/tomas-mock/Stock-Market-Analysis)
 
 ---
 
 ## 🧰 My Toolkit
 - **Languages**: Python, R, SQL
-- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression, Deep Learning, 
-- **Tools**: TensorFlow, Keras, R-INLA, Nimble, STAN, ggplot2, pandas, numpy, matplotlib, seaborn, 
+- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression, Deep Learning, Monte Carlo Simulation,
+- **Tools**: TensorFlow, Keras, R-INLA, Nimble, STAN, ggplot2, pandas, numpy, matplotlib, seaborn, scikit-learn,
 
 ---
 
