@@ -37,8 +37,8 @@ Here’s a snapshot of my work:
 
 ## 🧰 My Toolkit
 - **Languages**: Python, R, SQL
-- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression
-- **Tools**: TensorFlow, Keras, R-INLA, Nimble, STAN, ggplot2, pandas
+- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression, Deep Learning, 
+- **Tools**: TensorFlow, Keras, R-INLA, Nimble, STAN, ggplot2, pandas, numpy, matplotlib, seaborn, 
 
 ---
 
