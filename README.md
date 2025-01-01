@@ -44,7 +44,6 @@ Here’s a snapshot of my work:
 
 ## 🎯 Fun Facts About Me
 - 📖 I love diving into **data storytelling**, turning complex analyses into actionable insights.
-- 🌍 I'm fascinated by **cosmology and space exploration**, which inspired my galaxy morphology project.
 - 🎲 In my free time, I enjoy exploring **game theory and gambling strategies** (responsibly, of course!).
 
 
