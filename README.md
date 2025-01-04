@@ -14,12 +14,12 @@ Here’s a snapshot of my work:
 - [View Project](https://github.com/tomas-mock/Galaxy-Morphologies)
 
 ### 2. 🎰 **Roulette Strategies Simulation**
-- **What it is**: Simulated and analyzed roulette betting strategies to evaluate outcomes and risks.
+- **What it is**: Simulated and analysed roulette betting strategies to evaluate outcomes and risks.
 - **Key Features**: Explored strategies like James Bond, D'Alembert, and Red/Black bets using R.
 - [View Project](https://github.com/tomas-mock/Roulette-Strategies)
 
 ### 3. 🏥 **ER Visits Trends in California**
-- **What it is**: Analyzed Emergency Room visits (2011–2019) using Bayesian models to identify key drivers like PM2.5 levels and demographics.
+- **What it is**: Analysed Emergency Room visits (2011–2019) using Bayesian models to identify key drivers like PM2.5 levels and demographics.
 - **Key Features**: Spatio-temporal modeling with R-INLA, insights for public health policies.
 - [View Project](https://github.com/tomas-mock/Bayesian-Hierarchical-Modelling)
 
