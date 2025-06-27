@@ -11,7 +11,7 @@ Here’s a snapshot of my work:
 ### 1. 🤖 **FX Signal Generation with Transformers**  
 - **What it is**: Applied encoder-only Transformer models to predict directional moves in the mid-frequency FX spot market using hourly OHLC data from 2013–2023.  
 - **Key Features**: Custom three-class labeling framework, context window tuning, local vs. learnable positional encodings, Focal Loss for class imbalance, XGBoost benchmark, and realistic backtesting.  
-- [View Project](https://github.com/tomas-mock/fx-transformer-dissertation) 
+- [View Project](https://github.com/tomas-mock/FX-Signal-Generation-with-Transformers) 
 
 
 ### 2. 🌌 **Galaxy Morphology Prediction**
