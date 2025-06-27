@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tomas! 
 
-🎓 **Master's Graduate in Statistics** at the **London School of Economics (LSE)**  
+🎓 **Master's Graduate in Statistics** from the **London School of Economics (LSE)**  
 📊 Passionate about exploring data, uncovering insights, and building robust models to solve real-world problems.
 
 ---
