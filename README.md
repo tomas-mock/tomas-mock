@@ -8,27 +8,33 @@
 ## 🛠️ Projects I'm Proud Of
 Here’s a snapshot of my work:
 
-### 1. 🌌 **Galaxy Morphology Prediction**
+### 1. 🤖 **FX Signal Generation with Transformers**  
+- **What it is**: Applied encoder-only Transformer models to predict directional moves in the mid-frequency FX spot market using hourly OHLC data from 2013–2023.  
+- **Key Features**: Custom three-class labeling framework, context window tuning, local vs. learnable positional encodings, Focal Loss for class imbalance, XGBoost benchmark, and realistic backtesting.  
+- [View Project](https://github.com/tomas-mock/fx-transformer-dissertation) 
+
+
+### 2. 🌌 **Galaxy Morphology Prediction**
 - **What it is**: Leveraged deep learning (CNNs) to classify galaxy morphologies using thousands of galaxy images.
 - **Key Features**: Parallel CNN architecture, Grad-CAM for explainability.
 - [View Project](https://github.com/tomas-mock/Galaxy-Morphologies)
 
-### 2. 🎰 **Roulette Strategies Simulation**
+### 3. 🎰 **Roulette Strategies Simulation**
 - **What it is**: Simulated and analysed roulette betting strategies to evaluate outcomes and risks.
 - **Key Features**: Explored strategies like James Bond, D'Alembert, and Red/Black bets using R.
 - [View Project](https://github.com/tomas-mock/Roulette-Strategies)
 
-### 3. 🏥 **ER Visits Trends in California**
+### 4. 🏥 **ER Visits Trends in California**
 - **What it is**: Analysed Emergency Room visits (2011–2019) using Bayesian models to identify key drivers like PM2.5 levels and demographics.
 - **Key Features**: Spatio-temporal modeling with R-INLA, insights for public health policies.
 - [View Project](https://github.com/tomas-mock/Bayesian-Hierarchical-Modelling)
 
-### 4. 💷 **Household Expenditure Patterns in the UK**
+### 5. 💷 **Household Expenditure Patterns in the UK**
 - **What it is**: Investigated how income, tenure, and children affect spending across UK regions.
 - **Key Features**: Bayesian hierarchical models (Nimble, STAN), comparison with frequentist methods.
 - [View Project](https://github.com/tomas-mock/Bayesian-Data-Analysis)
 
-### 5. 📈 **Macroeconomic Impacts on U.S. Business Sectors**
+### 6. 📈 **Macroeconomic Impacts on U.S. Business Sectors**
 - **What it is**: Explored the influence of macroeconomic indicators on sector performance over two decades.
 - **Key Features**: Sector performance analysis during recessions and recoveries.
 - [View Project](https://github.com/tomas-mock/Stock-Market-Analysis)
