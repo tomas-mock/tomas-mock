@@ -48,7 +48,7 @@ Here’s a snapshot of my work:
 
 ## 🧰 My Toolkit
 - **Languages**: Python, R, SQL
-- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression, Deep Learning, Monte Carlo Simulation,
+- **Statistical Techniques**: Bayesian Modeling, Hierarchical Models, Linear Regression, Deep Learning, Monte Carlo Simulation, ERGMs (Exponential Random Graphs Models), Social Network Analysis
 - **Tools**: TensorFlow, Keras, R-INLA, Nimble, STAN, ggplot2, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,
 
 ---
