@@ -42,7 +42,7 @@ Here’s a snapshot of my work:
 ### 7. 🕸️ **Social Network Analysis of Lawyer Relationships**  
 - **What it is**: Analyzed professional and social ties among lawyers using Advice, CoWork, and Friendship networks to understand collaboration, hierarchy, and homophily within a law firm.  
 - **Key Features**: ERGM modeling, assortativity analysis, configuration model comparison, Walktrap community detection, and interpretation of reciprocity, transitivity, and tie patterns.  
-- [View Project](https://github.com/tomas-mock/lawyer-network-analysis) 
+- [View Project](https://github.com/tomas-mock/Social-Network-Analysis) 
 
 ---
 
